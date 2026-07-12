@@ -5,6 +5,10 @@ A simple money hack for Schedule I on Windows and Linux.
 ## IMPORTANT: BACKUP YOUR FILES!
 Before you start, make a copy of your original GameAssembly.dll! Save the backup somewhere safe. You will need it if the game updates or if you want to remove the cheat.
 
+## How to use
+1. Automatic Money Hack: Simply make any purchase in the game. The item's price will be added to your balance instead of being deducted
+2. Change your cash with the UI
+
 ## Download
 Download the files you need from the Releases (or Actions) tab:
 * The modified GameAssembly.dll
